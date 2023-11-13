@@ -377,6 +377,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Checkpoint_2.1_Jan_Inge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Checkpoint_2.1_Jan_Inge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Checkpoint_2.1_Jan_Inge.dll": {}
+        }
       }
     }
   },
@@ -969,10 +979,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Checkpoint_2.1_Jan_Inge/1.0.0": {
+      "type": "project",
+      "path": "../Checkpoint_2.1_Jan_Inge/Checkpoint_2.1_Jan_Inge.csproj",
+      "msbuildProject": "../Checkpoint_2.1_Jan_Inge/Checkpoint_2.1_Jan_Inge.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Checkpoint_2.1_Jan_Inge >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
@@ -1012,7 +1028,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge.csproj": {
+              "projectPath": "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
