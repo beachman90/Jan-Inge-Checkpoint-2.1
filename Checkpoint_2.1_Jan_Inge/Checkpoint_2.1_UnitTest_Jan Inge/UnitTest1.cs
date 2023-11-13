@@ -21,8 +21,18 @@ namespace Checkpoint_2._1_UnitTest_Jan_Inge
             int actual = 3;
 
             Assert.That(actual, Is.EqualTo(expected));
+        }
 
+        [Test]
+        public void CheckValue_ObjectInList()
+        {
+            Team myTeam = new("Gutta");
+            myTeam.AddPlayer(new("Dude", "7"));
+            
+            string expected = myTeam.players[0].PlayerName;
+            string actual = "Dude";
 
+            Assert.That(actual, Is.EqualTo(expected));
         }
     }
 }
