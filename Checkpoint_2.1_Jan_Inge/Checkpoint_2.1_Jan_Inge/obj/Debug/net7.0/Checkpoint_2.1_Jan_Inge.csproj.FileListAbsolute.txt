@@ -1,0 +1,14 @@
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\bin\Debug\net7.0\Checkpoint_2.1_Jan_Inge.exe
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\bin\Debug\net7.0\Checkpoint_2.1_Jan_Inge.deps.json
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\bin\Debug\net7.0\Checkpoint_2.1_Jan_Inge.runtimeconfig.json
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\bin\Debug\net7.0\Checkpoint_2.1_Jan_Inge.dll
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\bin\Debug\net7.0\Checkpoint_2.1_Jan_Inge.pdb
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.AssemblyInfoInputs.cache
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.AssemblyInfo.cs
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.csproj.CoreCompileInputs.cache
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.dll
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\refint\Checkpoint_2.1_Jan_Inge.dll
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.pdb
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\Checkpoint_2.1_Jan_Inge.genruntimeconfig.cache
+C:\Users\jistr\source\repos\Checkpoint_2.1_Jan_Inge\Checkpoint_2.1_Jan_Inge\obj\Debug\net7.0\ref\Checkpoint_2.1_Jan_Inge.dll
