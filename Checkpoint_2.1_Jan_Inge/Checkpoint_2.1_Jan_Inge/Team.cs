@@ -10,6 +10,11 @@
              TeamName = teamName;           
         }
 
+        public void AddPlayer(Player player)
+        {
+            players.Add(player);
+        }
+
         public override string ToString()
         {
             return $"Team is called {TeamName}.";

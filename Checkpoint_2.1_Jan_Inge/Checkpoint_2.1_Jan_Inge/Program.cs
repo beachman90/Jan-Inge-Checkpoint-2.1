@@ -10,6 +10,9 @@ namespace Checkpoint_2._1_Jan_Inge
 
             Team myTeam = new("Hansamlingen");
 
+            myTeam.AddPlayer(new("Geir", "30"));
+            myTeam.AddPlayer(new("Mons", "28"));
+            
             Player player = new("Han Store", "8");
             myTeam.players.Add(player);
 

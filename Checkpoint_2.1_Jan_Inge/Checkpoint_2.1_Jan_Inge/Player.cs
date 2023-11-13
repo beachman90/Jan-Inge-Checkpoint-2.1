@@ -11,10 +11,7 @@
             PlayerNumber = playerNumber;            
         }
 
-        //public void AddPlayer(Player player)
-        //{
-        //    Player.Add
-        //}
+        
         public override string ToString()
         {
             return $"{PlayerName} wears number {PlayerNumber}.";
