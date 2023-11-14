@@ -34,5 +34,29 @@ namespace Checkpoint_2._1_UnitTest_Jan_Inge
 
             Assert.That(actual, Is.EqualTo(expected));
         }
+
+        [Test]
+        public void Constructor_SetsCorrectValue()
+        {
+            string playerName = "Kurt";
+            string playerNumber = "14";
+
+            Player player = new(playerName, playerNumber);
+
+            Assert.That(playerName, Is.EqualTo(player.PlayerName));
+        }
+
+        [Test]
+        public void Method_ReturnsCorrectString()
+        {
+            string playerName = "Mr Fantastic";
+            string playerNumber = "1337";
+
+            Player player = new(playerName, playerNumber);
+
+            string result = player.ToString();
+
+            Assert.That($"{playerName} wears number {playerNumber}.", Is.EqualTo(result));
+        }
     }
 }

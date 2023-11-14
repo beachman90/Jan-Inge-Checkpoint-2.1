@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_UnitTest_Jan Inge\\Checkpoint_2.1_UnitTest_Jan Inge.csproj",
+      "projectUniqueName": "C:\\Users\\jistr\\source\\repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_UnitTest_Jan Inge\\Checkpoint_2.1_UnitTest_Jan Inge.csproj",
       "projectName": "Checkpoint_2.1_UnitTest_Jan Inge",
-      "projectPath": "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_UnitTest_Jan Inge\\Checkpoint_2.1_UnitTest_Jan Inge.csproj",
+      "projectPath": "C:\\Users\\jistr\\source\\repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_UnitTest_Jan Inge\\Checkpoint_2.1_UnitTest_Jan Inge.csproj",
       "packagesPath": "C:\\Users\\jistr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_UnitTest_Jan Inge\\obj\\",
+      "outputPath": "C:\\Users\\jistr\\source\\repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_UnitTest_Jan Inge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1029,8 +1029,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge.csproj": {
-              "projectPath": "C:\\Users\\jistr\\Source\\Repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge.csproj"
+            "C:\\Users\\jistr\\source\\repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge.csproj": {
+              "projectPath": "C:\\Users\\jistr\\source\\repos\\Jan-Inge-Checkpoint-2.1\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge\\Checkpoint_2.1_Jan_Inge.csproj"
             }
           }
         }
